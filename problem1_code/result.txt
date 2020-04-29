@@ -1,0 +1,84 @@
+This is option1
+it took 0.000000 seconds to execute and we find maximum 100 at 9383 
+
+Here is thread 7, and we find hidden value at index 7499 
+Here is thread 4, and we find hidden value at index 4999 
+Here is thread 2, and we find hidden value at index 2499 
+This is option2
+it took 0.030000 seconds to execute and we find maximum 1679787864 at 760 
+
+Here is thread unknown, and we find hidden value at index 24 
+Here is thread unknown, and we find hidden value at index 49 
+Here is thread unknown, and we find hidden value at index 74 
+This is option2
+it took 0.080000 seconds to execute and we find maximum 791621423 at 816 
+
+Here is thread unknown, and we find hidden value at index 24 
+Here is thread unknown, and we find hidden value at index 49 
+Here is thread unknown, and we find hidden value at index 74 
+This is option2
+it took 0.120000 seconds to execute and we find maximum 100 at 383 
+
+Here is thread unknown, and we find hidden value at index 249 
+Here is thread unknown, and we find hidden value at index 499 
+Here is thread unknown, and we find hidden value at index 749 
+This is option2
+it took 0.110000 seconds to execute and we find maximum 100 at 9383 
+
+Here is thread unknown, and we find hidden value at index 7499 
+Here is thread unknown, and we find hidden value at index 4999 
+Here is thread unknown, and we find hidden value at index 2499 
+This is option1
+it took 0.170000 seconds to execute and we find maximum 100 at 9383 
+
+Here is thread 749, and we find hidden value at index 7499 
+Here is thread 499, and we find hidden value at index 4999 
+Here is thread 249, and we find hidden value at index 2499 
+This is option1
+it took 0.180000 seconds to execute and we find maximum 100 at 9383 
+
+Here is thread 374, and we find hidden value at index 7499 
+Here is thread 249, and we find hidden value at index 4999 
+Here is thread 124, and we find hidden value at index 2499 
+This is option1
+it took 0.000000 seconds to execute and we find maximum 100 at 9383 
+
+Here is thread 3, and we find hidden value at index 7499 
+Here is thread 1, and we find hidden value at index 2499 
+Here is thread 2, and we find hidden value at index 4999 
+This is option1
+it took 0.000000 seconds to execute and we find maximum 100 at 9383 
+
+Here is thread 2, and we find hidden value at index 7499 
+Here is thread 0, and we find hidden value at index 2499 
+Here is thread 1, and we find hidden value at index 4999 
+This is option1
+it took 0.010000 seconds to execute and we find maximum 100 at 289383 
+
+Here is thread 1, and we find hidden value at index 249999 
+Here is thread 3, and we find hidden value at index 749999 
+Here is thread 2, and we find hidden value at index 499999 
+This is option2
+it took 0.030000 seconds to execute and we find maximum 100 at 289383 
+
+Here is thread unknown, and we find hidden value at index 749999 
+Here is thread unknown, and we find hidden value at index 249999 
+Here is thread unknown, and we find hidden value at index 499999 
+This is option1
+it took 0.000000 seconds to execute and we find maximum 100 at 289383 
+
+Here is thread 2, and we find hidden value at index 499999 
+Here is thread 1, and we find hidden value at index 249999 
+Here is thread 3, and we find hidden value at index 749999 
+This is option1
+it took 0.000000 seconds to execute and we find maximum 100 at 289383 
+
+Here is thread 1, and we find hidden value at index 749999 
+Here is thread 0, and we find hidden value at index 249999 
+Here is thread 0, and we find hidden value at index 499999 
+This is option1
+it took 0.000000 seconds to execute and we find maximum 100 at 289383 
+
+Here is thread 2, and we find hidden value at index 749999 
+Here is thread 1, and we find hidden value at index 499999 
+Here is thread 0, and we find hidden value at index 249999 
